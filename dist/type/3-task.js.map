@@ -1,1 +1,1 @@
-{"version":3,"file":"3-task.js","sourceRoot":"","sources":["../../src/type/3-task.ts"],"names":[],"mappings":""}
+{"version":3,"file":"3-task.js","sourceRoot":"","sources":["../../src/type/3-task.ts"],"names":[],"mappings":";;AAUA,MAAM,QAAQ,GAAY;IACxB,KAAK,EAAE,QAAQ;IACf,KAAK,EAAE,KAAK;CACb,CAAC;AAEF,MAAM,QAAQ,GAAY;IACxB,KAAK,EAAE,OAAO;IACd,KAAK,EAAE,GAAG;IACV,OAAO,EAAE,IAAI;CACd,CAAC;AAEF,SAAS,YAAY,CAAC,EAAE,KAAK,EAAW;IACtC,OAAO,CAAC,GAAG,CAAC,KAAK,CAAC,CAAC;IACnB,wBAAwB;AAC1B,CAAC;AAED,YAAY,CAAC,QAAQ,CAAC,CAAC;AACvB,YAAY,CAAC,QAAQ,CAAC,CAAC"}

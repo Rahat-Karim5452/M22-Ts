@@ -7,12 +7,12 @@ Input: let val: unknown = "Hello TypeScript";
 Output: 16 (length), printed twice — once via as string, once via <string>.
 */
 Object.defineProperty(exports, "__esModule", { value: true });
-//!1.Solution: via as string
+//TODO: 1.Solution: via as string
 let value = "Hello TypeScript";
-let myValue = value; // !type assertion
+let myValue = value;
 let length = myValue.length;
 console.log("Using Type Assertion: ", length);
-//!2.Solution: via <string>
+//TODO: 2.Solution: via <string>
 let myValue2 = value; //!Angle Bracket type assertion
 let length2 = myValue2.length;
 console.log("Using Angle Bracket type Assertion: ", length2);
